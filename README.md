@@ -1,6 +1,4 @@
 # pterodactyl-vcmp
-[![Discord](https://img.shields.io/discord/609764930899673092)](https://discord.gg/5KnNVfv)
-![](https://img.shields.io/badge/status-prod-informational)
 
 Pterodactyl eggs - Vice City Multiplayer
 
